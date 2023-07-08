@@ -1,7 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/2evfljsmr7iv6bgo?svg=true)](https://ci.appveyor.com/project/TatianaYuryeva/react-components-fc)
 
-![CI](https://github.com/TatianaYuryeva/react-components-fc/actions/workflows/web.yml/badge.svg)
-
 GitHub Pages https://tatianayuryeva.github.io/react-components-fc/
 
 # Getting Started with Create React App
