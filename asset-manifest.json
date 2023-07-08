@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TatianaYuryeva/react-components-fc/static/css/main.aff619e2.css",
+    "main.js": "/TatianaYuryeva/react-components-fc/static/js/main.f725bc89.js",
+    "static/js/787.93b04804.chunk.js": "/TatianaYuryeva/react-components-fc/static/js/787.93b04804.chunk.js",
+    "static/media/item-blue.jpg": "/TatianaYuryeva/react-components-fc/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/TatianaYuryeva/react-components-fc/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/TatianaYuryeva/react-components-fc/index.html",
+    "main.aff619e2.css.map": "/TatianaYuryeva/react-components-fc/static/css/main.aff619e2.css.map",
+    "main.f725bc89.js.map": "/TatianaYuryeva/react-components-fc/static/js/main.f725bc89.js.map",
+    "787.93b04804.chunk.js.map": "/TatianaYuryeva/react-components-fc/static/js/787.93b04804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff619e2.css",
+    "static/js/main.f725bc89.js"
+  ]
+}
