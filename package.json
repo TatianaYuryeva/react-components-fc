@@ -1,7 +1,7 @@
 {
   "name": "react-components-fc",
   "version": "0.1.0",
-  "homepage": "https://github.com/TatianaYuryeva/react-components-fc/",
+  "homepage": "https://tatianayuryeva.github.io/react-components-fc/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
